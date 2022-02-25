@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: one-to-one-cache
   datasource:
     driver-class-name: oracle.jdbc.driver.OracleDriver
     password: HR
